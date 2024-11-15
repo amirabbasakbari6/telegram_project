@@ -1,3 +1,5 @@
-version = '1.0.1'
+version = '2.0.0'
 
 print(f'hello in version {version}')
+
+print('new feature in dev branch')
